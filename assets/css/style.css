@@ -1,0 +1,69 @@
+*{
+
+}
+
+
+
+/* navigation menu */
+.navigation{
+    background-color:rgb(27, 26, 24)!important;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    padding: 1px!important;
+    
+
+}
+
+.navigation ul li a{
+    color: white!important;
+}
+.navigation ul :hover{
+    color: yellow!important;
+}
+.navigation .title_nav :hover{
+    color: white!important;
+}
+
+.hearder_title22{
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 2px 0px!important;
+}
+
+.hearder_title22 .left22 .left66{
+font-weight: 700;
+}
+.hero123 {
+    position: relative;
+    background-size: cover;
+    background-color: rgba(79, 216, 182, 0.822)!important;
+    background-position: ;
+    height: 450px; /* Full viewport height */
+    
+}
+
+/* Overlay styling */
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.hero123 .text123 h1{
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.hero123 .text123 p{
+    color: black;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+}
