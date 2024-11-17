@@ -1,0 +1,165 @@
+
+
+
+/* navigation menu */
+.navigation{
+    background-color: #2e2e2e !important;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal; /* Replace <weight> with a valid value, such as 'bold', 'normal', or a number (e.g., 400) */
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    padding: 1px !important;
+    }
+
+.navigation ul li a{
+    color: white!important;
+}
+.navigation ul :hover{
+    color: yellow!important;
+}
+.navigation .title_nav :hover{
+    color: white!important;
+}
+
+.hearder_title22{
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 2px 0px!important;
+    background-color: rgb(27, 26, 24);
+}
+
+.hearder_title22 .left22 .left66{
+font-weight: 700;
+}
+.hero123 {
+    position: relative;
+    background-size: cover;
+    background-color: rgba(79, 216, 182, 0.822)!important;
+    height: 450px; /* Full viewport height */
+    border-radius: 25px;
+
+}
+
+/* Overlay styling */
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.hero123 .text123 h1{
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.hero123 .text123 p{
+    color: black;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title222 {
+    margin: 0%!important;
+    margin-bottom: 0% !important;
+}
+.b-example-divider {
+    width: 100%;
+    height: 16px;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+
+        /* Project Boxes Section */
+        .projects {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+            padding: 20px;
+        }
+        .project-box {
+            background-color: #0bb3f5fd;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(245, 79, 14, 0.774);
+            width: 250px;
+            text-align: center;
+            padding: 20px;
+            transition: transform 0.3s;
+        }
+        .project-box:hover {
+            transform: translateY(-10px);
+        }
+        .project-image {
+            width: 100%;
+            height: 150px;
+            border-radius: 15px;
+            object-fit: cover;
+            margin-bottom: 15px;
+        }
+        .project-title {
+            font-size: 1.5em;
+            margin: 10px 0;
+            color: #333;
+        }
+        /* Button Styling */
+        .know-more-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 10px;
+            font-size: 1em;
+            color: #fff;
+            background-color: #007BFF;
+            border-radius: 12px;
+            text-decoration: none;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .know-more-btn:hover {
+            background-color: #0056b3;
+            transform: scale(1.1);
+        }
+
+        /* Button Styling */
+        .know-more-btn12 {
+            font-family: "Roboto", sans-serif;
+            font-weight: 700;
+            font-style: normal;
+            display: inline-block;
+            padding: 10px 100px;
+            margin-top: 10px;
+            font-size: 1em;
+            color: #ffffff;
+            background-color: #000000;
+            border-radius: 5px;
+            border-color: #0056b3;
+            text-decoration: none;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .know-more-btn12:hover {
+            background-color: #000000;
+            transform: scale(1.1);
+        }
+        .box2010 {
+            /* background-color: rgb(4, 255, 138); */
+            border-radius: 25px!important;
+        }
+
+.footer {
+    background-color: rgb(27, 26, 24);
+
+}
+
+.footer p {
+    color: rgb(255, 255, 255)!important;
+}
+
+.foot123 {
+    color: rgb(255, 255, 255)!important;
+}
+
